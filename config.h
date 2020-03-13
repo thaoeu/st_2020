@@ -1,12 +1,6 @@
 /* See LICENSE file for copyright and license details. */
-
-/*
- * appearance
- *
- * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
- */
-static char *font = "Noto Mono:pixelsize=18:antialias=true:autohint=true";
-static int borderpx = 2;
+static char *font = "Source Code Pro:pixelsize=18:antialias=true:autohint=false";
+static int borderpx = 1;
 
 /*
  * What program is execed by st depends of these precedence rules:
