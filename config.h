@@ -1,5 +1,5 @@
 /* See LICENSE file for copyright and license details. */
-static char *font = "Source Code Pro:pixelsize=22:antialias=true:autohint=false";
+static char *font = "Source Code Pro:pixelsize=25:antialias=true:autohint=false";
 static int borderpx = 1;
 
 /*
@@ -103,13 +103,13 @@ static const char *colorname[] ={
 [7] = "#f9f9f9", /* white	*/
 
 /* 8 bright colors */
-[8] = "#44475a", /* black	*/
-[9] = "#ff5555", /* red		*/
-[10] = "#50fa7b", /* green	*/
-[11] = "#f1fa8c", /* yellow	*/
+[8] = "#f8f8f2", /* black	*/
+[9] = "#ff5c57", /* red		*/
+[10] = "#5af78e", /* green	*/
+[11] = "#f3f99d", /* yellow	*/
 [12] = "#66ccff", /* blue	*/
-[13] = "#ff79c6", /* magenta	*/
-[14] = "#8be9fd", /* cyan	*/
+[13] = "#ff6ac1", /* magenta	*/
+[14] = "#9aedfe", /* cyan	*/
 [15] = "#ffffff", /* white	*/
 
 /* special colors */
